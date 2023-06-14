@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "1042174809824",
+    "project_id": "freshbrigade-map",
+    "storage_bucket": "freshbrigade-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042174809824:android:e1765ba94deb89e2f66285",
+        "android_client_info": {
+          "package_name": "com.example.bodhiteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042174809824-bo3foib2hlnp3huf8tk493vcntkm8h2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYeO_wuEliazLMmtSo9OK0yio_BPBtma4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042174809824-bo3foib2hlnp3huf8tk493vcntkm8h2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042174809824:android:b163cfa905d2c9d1f66285",
+        "android_client_info": {
+          "package_name": "com.example.crudops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042174809824-bo3foib2hlnp3huf8tk493vcntkm8h2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYeO_wuEliazLMmtSo9OK0yio_BPBtma4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042174809824-bo3foib2hlnp3huf8tk493vcntkm8h2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042174809824:android:fb5b430a8eb3d488f66285",
+        "android_client_info": {
+          "package_name": "com.example.ninehertzindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042174809824-s10q2bdldpcv0gc4v137edlc3hamjptt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ninehertzindia",
+            "certificate_hash": "371b441214bc56cc61872c7420305778f8f99515"
+          }
+        },
+        {
+          "client_id": "1042174809824-bo3foib2hlnp3huf8tk493vcntkm8h2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYeO_wuEliazLMmtSo9OK0yio_BPBtma4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042174809824-bo3foib2hlnp3huf8tk493vcntkm8h2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042174809824:android:5f2f9c3bd2bb4a6ef66285",
+        "android_client_info": {
+          "package_name": "com.freshbrigade.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042174809824-bj77p25sk8umkcbct3m0r591mglprabu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freshbrigade.market",
+            "certificate_hash": "9f82306a45b575530e0eba10f467bc5f46886b95"
+          }
+        },
+        {
+          "client_id": "1042174809824-bo3foib2hlnp3huf8tk493vcntkm8h2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYeO_wuEliazLMmtSo9OK0yio_BPBtma4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042174809824-bo3foib2hlnp3huf8tk493vcntkm8h2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
